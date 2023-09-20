@@ -1,4 +1,4 @@
-<h1>Repositório da Mo</h1>🦕
+<h1>Repositório da Mo🦕</h1>
 
 <h3>Linguagens de Programação</h3>
 <h4>
